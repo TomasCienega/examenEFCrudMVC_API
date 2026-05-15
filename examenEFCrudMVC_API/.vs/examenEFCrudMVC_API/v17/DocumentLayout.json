@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\tomas\\Downloads\\EjerciciosDeProgramacion\\examenEFCrudMVC_API\\examenEFCrudMVC_API\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{93A2EF9B-873E-45EF-9E79-8E387542D4E1}|examenEFCrudMVC_API\\examenEFCrudMVC_API.csproj|c:\\users\\tomas\\downloads\\ejerciciosdeprogramacion\\examenefcrudmvc_api\\examenefcrudmvc_api\\examenefcrudmvc_api\\controllers\\departamentocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93A2EF9B-873E-45EF-9E79-8E387542D4E1}|examenEFCrudMVC_API\\examenEFCrudMVC_API.csproj|solutionrelative:examenefcrudmvc_api\\controllers\\departamentocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{93A2EF9B-873E-45EF-9E79-8E387542D4E1}|examenEFCrudMVC_API\\examenEFCrudMVC_API.csproj|c:\\users\\tomas\\downloads\\ejerciciosdeprogramacion\\examenefcrudmvc_api\\examenefcrudmvc_api\\examenefcrudmvc_api\\controllers\\empleadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{93A2EF9B-873E-45EF-9E79-8E387542D4E1}|examenEFCrudMVC_API\\examenEFCrudMVC_API.csproj|solutionrelative:examenefcrudmvc_api\\controllers\\empleadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{93A2EF9B-873E-45EF-9E79-8E387542D4E1}|examenEFCrudMVC_API\\examenEFCrudMVC_API.csproj|c:\\users\\tomas\\downloads\\ejerciciosdeprogramacion\\examenefcrudmvc_api\\examenefcrudmvc_api\\examenefcrudmvc_api\\dtos\\empleadodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{93A2EF9B-873E-45EF-9E79-8E387542D4E1}|examenEFCrudMVC_API\\examenEFCrudMVC_API.csproj|solutionrelative:examenefcrudmvc_api\\dtos\\empleadodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93A2EF9B-873E-45EF-9E79-8E387542D4E1}|examenEFCrudMVC_API\\examenEFCrudMVC_API.csproj|c:\\users\\tomas\\downloads\\ejerciciosdeprogramacion\\examenefcrudmvc_api\\examenefcrudmvc_api\\examenefcrudmvc_api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{93A2EF9B-873E-45EF-9E79-8E387542D4E1}|examenEFCrudMVC_API\\examenEFCrudMVC_API.csproj|solutionrelative:examenefcrudmvc_api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93A2EF9B-873E-45EF-9E79-8E387542D4E1}|examenEFCrudMVC_API\\examenEFCrudMVC_API.csproj|c:\\users\\tomas\\downloads\\ejerciciosdeprogramacion\\examenefcrudmvc_api\\examenefcrudmvc_api\\examenefcrudmvc_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93A2EF9B-873E-45EF-9E79-8E387542D4E1}|examenEFCrudMVC_API\\examenEFCrudMVC_API.csproj|solutionrelative:examenefcrudmvc_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -21,27 +33,67 @@
           "SelectedChildIndex": 1,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "DepartamentoController.cs",
+              "DocumentMoniker": "C:\\Users\\tomas\\Downloads\\EjerciciosDeProgramacion\\examenEFCrudMVC_API\\examenEFCrudMVC_API\\examenEFCrudMVC_API\\Controllers\\DepartamentoController.cs",
+              "RelativeDocumentMoniker": "examenEFCrudMVC_API\\Controllers\\DepartamentoController.cs",
+              "ToolTip": "C:\\Users\\tomas\\Downloads\\EjerciciosDeProgramacion\\examenEFCrudMVC_API\\examenEFCrudMVC_API\\examenEFCrudMVC_API\\Controllers\\DepartamentoController.cs",
+              "RelativeToolTip": "examenEFCrudMVC_API\\Controllers\\DepartamentoController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T20:46:49.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tomas\\Downloads\\EjerciciosDeProgramacion\\examenEFCrudMVC_API\\examenEFCrudMVC_API\\examenEFCrudMVC_API\\Program.cs",
+              "RelativeDocumentMoniker": "examenEFCrudMVC_API\\Program.cs",
+              "ToolTip": "C:\\Users\\tomas\\Downloads\\EjerciciosDeProgramacion\\examenEFCrudMVC_API\\examenEFCrudMVC_API\\examenEFCrudMVC_API\\Program.cs",
+              "RelativeToolTip": "examenEFCrudMVC_API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T01:03:39.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\tomas\\Downloads\\EjerciciosDeProgramacion\\examenEFCrudMVC_API\\examenEFCrudMVC_API\\examenEFCrudMVC_API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "examenEFCrudMVC_API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\tomas\\Downloads\\EjerciciosDeProgramacion\\examenEFCrudMVC_API\\examenEFCrudMVC_API\\examenEFCrudMVC_API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "examenEFCrudMVC_API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-29T01:02:37.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "EmpleadoDTO.cs",
               "DocumentMoniker": "C:\\Users\\tomas\\Downloads\\EjerciciosDeProgramacion\\examenEFCrudMVC_API\\examenEFCrudMVC_API\\examenEFCrudMVC_API\\DTOS\\EmpleadoDTO.cs",
               "RelativeDocumentMoniker": "examenEFCrudMVC_API\\DTOS\\EmpleadoDTO.cs",
               "ToolTip": "C:\\Users\\tomas\\Downloads\\EjerciciosDeProgramacion\\examenEFCrudMVC_API\\examenEFCrudMVC_API\\examenEFCrudMVC_API\\DTOS\\EmpleadoDTO.cs",
               "RelativeToolTip": "examenEFCrudMVC_API\\DTOS\\EmpleadoDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABGAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-04T20:44:17.79Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-29T00:36:00.39Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "EmpleadoController.cs",
               "DocumentMoniker": "C:\\Users\\tomas\\Downloads\\EjerciciosDeProgramacion\\examenEFCrudMVC_API\\examenEFCrudMVC_API\\examenEFCrudMVC_API\\Controllers\\EmpleadoController.cs",
               "RelativeDocumentMoniker": "examenEFCrudMVC_API\\Controllers\\EmpleadoController.cs",
               "ToolTip": "C:\\Users\\tomas\\Downloads\\EjerciciosDeProgramacion\\examenEFCrudMVC_API\\examenEFCrudMVC_API\\examenEFCrudMVC_API\\Controllers\\EmpleadoController.cs",
               "RelativeToolTip": "examenEFCrudMVC_API\\Controllers\\EmpleadoController.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAxwH4AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAcwGMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-04T20:35:06.214Z",
               "EditorCaption": ""
